@@ -1,6 +1,10 @@
 ---
-title: Welcome to Quartz
+title: tquackperson
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome!
+
+I am tquackperson.
+
+This is a collection of random musings, serious thoughts, and 💩posts.
+This is going to be a perpetual work-in-progress!
