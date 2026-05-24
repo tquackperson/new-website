@@ -1,4 +1,7 @@
-#maybe-todo 
+---
+tags:
+  - maybe-todo
+---
 
 I have proposed a few ridiculous units of measure (see [[Fortnite]] and [[First-Down]]).
 It would be great to provide a converter from conventional units to and from these.
