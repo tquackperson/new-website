@@ -12,7 +12,10 @@ const config: QuartzConfig = {
     pageTitleSuffix: "I am tquackperson.",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: {
+      provider: 'goatcounter',
+      websiteId: 'tquackperson',
+    },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
